@@ -26,5 +26,7 @@
   ### **Programming Languages**
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+  ### **Connect With Me**
+![Linkedln](https://www.linkedin.com/in/jayanta-chungkrang-a94818193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 </div>
